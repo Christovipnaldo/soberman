@@ -1,6 +1,5 @@
 My first repository in Github
-Andreas C – [@AndreasChristo](https://twitter.com/Andreaschristo) – Andreaschristovipnaldo@hotmail.com
 
-Distributed under the XYZ license. See ``LICENSE`` for more information.
+Andreas C – [@AndreasChristo](https://twitter.com/Andreas_christo) – Andreaschristovipnaldo@hotmail.com
 
-[https://github.com/christovipnaldo/github-link](https://github.com/christovipnaldo/)
+[https://github.com/christovipnaldo/soberman](https://github.com/christovipnaldo/)
